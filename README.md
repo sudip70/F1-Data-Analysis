@@ -21,6 +21,8 @@ Data analysis on historical formula 1 data.
 #Wins by top 5 teams over the years
 ![image](https://github.com/user-attachments/assets/e740b733-2c52-4dc4-b907-bb7b9900699a)
 
+and many more analysis using historical formula one data.
+
 
 
 
